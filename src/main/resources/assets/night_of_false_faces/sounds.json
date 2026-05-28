@@ -1,0 +1,42 @@
+{
+  "face_thief_hurt": {
+    "category": "hostile",
+    "subtitle": "subtitle.night_of_false_faces.face_thief_hurt",
+    "sounds": [{"name": "night_of_false_faces:hurt", "stream": false}]
+  },
+  "face_thief_ambient": {
+    "category": "hostile",
+    "subtitle": "subtitle.night_of_false_faces.face_thief_ambient",
+    "sounds": [{"name": "night_of_false_faces:ambient", "stream": false}]
+  },
+  "face_thief_scream": {
+    "category": "hostile",
+    "subtitle": "subtitle.night_of_false_faces.face_thief_scream",
+    "sounds": [{"name": "night_of_false_faces:scream", "stream": false}]
+  },
+  "face_thief_aftermath": {
+    "category": "hostile",
+    "subtitle": "subtitle.night_of_false_faces.face_thief_aftermath",
+    "sounds": [{"name": "night_of_false_faces:skinwalker_aftermath", "stream": false}]
+  },
+  "face_thief_chase_theme": {
+    "category": "hostile",
+    "subtitle": "subtitle.night_of_false_faces.face_thief_chase_theme",
+    "sounds": [{"name": "night_of_false_faces:chase_theme", "stream": true}]
+  },
+  "face_thief_distance_moan": {
+    "category": "hostile",
+    "subtitle": "subtitle.night_of_false_faces.face_thief_distance_moan",
+    "sounds": [{"name": "night_of_false_faces:distance_moan", "stream": false}]
+  },
+  "face_thief_helpme": {
+    "category": "hostile",
+    "subtitle": "subtitle.night_of_false_faces.face_thief_helpme",
+    "sounds": [{"name": "night_of_false_faces:helpme", "stream": false}]
+  },
+  "face_thief_mimicking_helpme_echo": {
+    "category": "hostile",
+    "subtitle": "subtitle.night_of_false_faces.face_thief_mimicking_helpme_echo",
+    "sounds": [{"name": "night_of_false_faces:mimicking_helpmeecho", "stream": false}]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "night_of_false_faces:item/gut"
+  }
+}

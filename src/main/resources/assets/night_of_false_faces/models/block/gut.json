@@ -1,0 +1,21 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "0":        "night_of_false_faces:block/gut",
+    "particle": "night_of_false_faces:block/gut"
+  },
+  "elements": [
+    {
+      "from": [5, 0, 4],
+      "to":   [11, 0.5, 10],
+      "faces": {
+        "north": {"uv": [6, 0, 12, 1], "texture": "#0"},
+        "east":  {"uv": [6, 1, 12, 2], "texture": "#0"},
+        "south": {"uv": [6, 2, 12, 3], "texture": "#0"},
+        "west":  {"uv": [6, 3, 12, 4], "texture": "#0"},
+        "up":    {"uv": [0, 0, 6, 6],  "texture": "#0"},
+        "down":  {"uv": [0, 12, 6, 6], "texture": "#0"}
+      }
+    }
+  ]
+}

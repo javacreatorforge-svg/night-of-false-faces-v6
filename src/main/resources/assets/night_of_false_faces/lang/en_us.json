@@ -1,0 +1,15 @@
+{
+  "itemGroup.night_of_false_faces": "Night of False Faces",
+  "entity.night_of_false_faces.face_thief": "Face Thief",
+  "item.night_of_false_faces.face_thief_spawn_egg": "Face Thief Spawn Egg",
+  "block.night_of_false_faces.gut": "Gut",
+  "item.night_of_false_faces.gut": "Gut",
+  "subtitle.night_of_false_faces.face_thief_hurt": "Face Thief hurts",
+  "subtitle.night_of_false_faces.face_thief_ambient": "Faint breathing",
+  "subtitle.night_of_false_faces.face_thief_scream": "Face Thief screams",
+  "subtitle.night_of_false_faces.face_thief_aftermath": "Aftermath",
+  "subtitle.night_of_false_faces.face_thief_chase_theme": "Chase theme",
+  "subtitle.night_of_false_faces.face_thief_distance_moan": "A distant moan...",
+  "subtitle.night_of_false_faces.face_thief_helpme": "Help me!",
+  "subtitle.night_of_false_faces.face_thief_mimicking_helpme_echo": "...help me..."
+}
